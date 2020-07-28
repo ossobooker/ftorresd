@@ -10,10 +10,10 @@ I'm **Felipe Silva**.
 Currently, a ML enthusiast, working my way to Vue.js and FastAPI. 
  --->
 
-[![uea](https://img.shields.io/badge/TEACH-UEA-green?style=flat-square)](http://www.uea.edu.br)
-[![cms](https://img.shields.io/badge/EXPERIMENT-CMS-red?style=flat-square)](http://cms.web.cern.ch)
-[![rpc](https://img.shields.io/badge/SUBSYSTEM-RPC-blue?style=flat-square)](http://cms.web.cern.ch/news/resistive-plate-chambers)
-[![email](https://img.shields.io/badge/email%3A-fts.araujo%40gmail.com-informational?style=flat-square)](mailto:fts.araujo@gmail.com)
+[![uea](https://img.shields.io/badge/Teach-UEA-green?style=flat-square)](http://www.uea.edu.br)
+[![cms](https://img.shields.io/badge/Experiment-CMS-red?style=flat-square)](http://cms.web.cern.ch)
+[![rpc](https://img.shields.io/badge/Detector-Tech-RPC-blue?style=flat-square)](http://cms.web.cern.ch/news/resistive-plate-chambers)
+[![email](https://img.shields.io/badge/Contact-fts.araujo%40gmail.com-informational?style=flat-square)](mailto:fts.araujo@gmail.com)
 
 
 Trying to spread :heart: for Python :snake:.
