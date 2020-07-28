@@ -18,3 +18,5 @@ Currently, a ML enthusiast, working my way to Vue.js and FastAPI.
 
 Trying to spread :heart: for Python :snake:.
 
+Exploring modern web technologies to connect software and hardware.
+
