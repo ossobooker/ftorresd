@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Felipe**. A PhD for experimental particle physics (expected). Trying to spread the love for Python :heart:.
+I'm **Felipe**. A PhD for experimental particle physics (expected). Trying to spread the love for Python :heart::snake:.
 
 [![cms](https://img.shields.io/badge/EXPERIMENT-CMS-red?style=flat-square)](http://cms.web.cern.ch)
 [![rpc](https://img.shields.io/badge/SUBSYSTEM-RPC-green?style=flat-square)](http://cms.web.cern.ch/news/resistive-plate-chambers)
