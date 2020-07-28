@@ -2,8 +2,8 @@
 
 This is **Felipe**. I'm PhD for experimental particle physics (expected).
 
-
-[![cms](https://img.shields.io/badge/EXPERIMENT-CMS-red?style=flat-square)[http://cms.web.cern.ch/]]
+[![cms](https://img.shields.io/badge/EXPERIMENT-CMS-red?style=flat-square)](http://cms.web.cern.ch)
+[![rpc](https://img.shields.io/badge/SUBSYSTEM-RPC-green?style=flat-square)](http://cms.web.cern.ch/news/resistive-plate-chambers)
 
 
 <!--
