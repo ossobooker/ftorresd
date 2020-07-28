@@ -10,7 +10,7 @@ I'm **Felipe Silva**.
 
 [![uea](https://img.shields.io/badge/TEACH-RPC-green?style=flat-square)](http://www.uea.edu.br)
 [![cms](https://img.shields.io/badge/EXPERIMENT-CMS-red?style=flat-square)](http://cms.web.cern.ch)
-[![rpc](https://img.shields.io/badge/SUBSYSTEM-RPC-green?style=flat-square)](http://cms.web.cern.ch/news/resistive-plate-chambers)
+[![rpc](https://img.shields.io/badge/SUBSYSTEM-RPC-blue?style=flat-square)](http://cms.web.cern.ch/news/resistive-plate-chambers)
 
 Trying to spread :heart: for Python :snake:.
 
