@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+This is **Felipe**. I'm PhD for experimental particle physics (expected).
+
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+
+
 <!--
 **ftorresd/ftorresd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
