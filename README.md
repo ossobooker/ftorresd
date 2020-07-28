@@ -1,23 +1,16 @@
 ### Hi there 👋
 
-I'm **Felipe**. A PhD for experimental particle physics (expected). Trying to spread the love for Python :heart::snake:.
+I'm **Felipe Silva**. 
 
+- A PhD for experimental particle physics (expected). 
+- Bump hunting physics @ CERN.
+- Assistent Professor of Physics @ UEA. 
+- ML enthusiast.
+
+
+[![uea](https://img.shields.io/badge/TEACH-RPC-green?style=flat-square)](http://www.uea.edu.br)
 [![cms](https://img.shields.io/badge/EXPERIMENT-CMS-red?style=flat-square)](http://cms.web.cern.ch)
 [![rpc](https://img.shields.io/badge/SUBSYSTEM-RPC-green?style=flat-square)](http://cms.web.cern.ch/news/resistive-plate-chambers)
 
+Trying to spread :heart: for Python :snake:.
 
-
-<!--
-**ftorresd/ftorresd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
