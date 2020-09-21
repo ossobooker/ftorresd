@@ -7,7 +7,7 @@ I'm **Felipe Silva**.
 - Bump hunting physics processes @ CERN.
 - Assistant Professor of Physics @ UEA. 
 
-Currently, a ML enthusiast, working my way to Vue.js and FastAPI. 
+Currently, a ML enthusiast working my way to Vue.js and FastAPI. 
  --->
 
 [![uea](https://img.shields.io/badge/Teach-UEA-green?style=flat-square)](http://www.uea.edu.br)
