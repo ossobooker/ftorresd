@@ -7,7 +7,7 @@ Currently:
 - Assistant Professor of Physics @ UEA.
 - MUSiCIAN @ RWTH/Aachen.
 
-A ML enthusiast working my way web technologies for better/faster HEP data analysis. 
+A ML enthusiast working my way into web technologies for better/faster/simpler HEP data analysis. 
  
 [![uea](https://img.shields.io/badge/Teach-UEA-green?style=flat-square)](http://www.uea.edu.br)
 [![cms](https://img.shields.io/badge/Experiment-CMS-red?style=flat-square)](http://cms.web.cern.ch)
